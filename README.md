@@ -1,2 +1,2 @@
-# Coffee_Junkie--HTML_website
-I developed this coffe junkie website using HTML.
+# Coffee_Junkie_website
+A coffe junkie website using HTML.
